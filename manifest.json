@@ -1,0 +1,10 @@
+{
+    "manifest_vesrion" : 3,
+    "name" : "TubeTag",
+    "description": "",
+    "action":{
+        "default_popup": "",
+        "default_icon": ""
+    }
+
+}
