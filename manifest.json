@@ -1,10 +1,10 @@
 {
-    "manifest_vesrion" : 3,
-    "name" : "TubeTag",
-    "description": "",
-    "action":{
-        "default_popup": "",
-        "default_icon": ""
+    "manifest_version": 3,
+    "name": "TubeTag",
+    "description": "Bookmark for Youtube",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup/popup.html",
+      "default_icon": "images/tubetag_icon.png"
     }
-
-}
+  }
